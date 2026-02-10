@@ -1,6 +1,6 @@
 # Natural Alignment
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18602690.svg)](https://doi.org/10.5281/zenodo.18602690)
 
 This repository provides a **stable mirror** of the paper:
 
@@ -16,7 +16,7 @@ should be referenced using the DOI above.
 
 > **de Beer, R.** (2026).  
 > *Natural Alignment Through Irreversible Commitment* (v1.0).  
-> Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX
+> Zenodo. https://doi.org/10.5281/zenodo.18602690
 
 ---
 
